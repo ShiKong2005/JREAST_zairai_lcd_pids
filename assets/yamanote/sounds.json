@@ -1,0 +1,6502 @@
+{
+  "atos_approach": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_approach",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p01_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p01_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p01_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p01_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p01_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p01_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p01_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p01_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p01_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p01_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p01_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p01_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p01_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p01_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p01_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p01_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p01_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p01_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p01_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p01_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p01_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p01_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p02_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p02_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p02_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p02_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p02_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p02_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p02_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p02_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p02_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p02_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p02_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p02_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p02_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p02_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p02_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p02_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p02_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p02_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p02_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p02_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p02_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p02_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p03_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p03_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p03_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p03_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p03_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p03_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p03_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p03_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p03_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p03_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p03_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p03_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p03_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p03_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p03_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p03_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p03_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p03_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p03_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p03_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p03_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p03_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p04_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p04_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p04_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p04_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p04_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p04_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p04_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p04_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p04_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p04_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p04_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p04_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p04_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p04_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p04_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p04_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p04_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p04_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p04_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p04_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p04_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p04_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p05_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p05_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p05_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p05_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p05_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p05_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p05_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p05_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p05_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p05_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p05_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p05_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p05_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p05_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p05_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p05_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p05_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p05_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p05_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p05_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p05_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p05_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p06_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p06_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p06_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p06_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p06_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p06_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p06_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p06_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p06_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p06_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p06_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p06_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p06_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p06_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p06_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p06_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p06_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p06_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p06_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p06_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p06_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p06_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p07_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p07_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p07_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p07_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p07_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p07_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p07_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p07_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p07_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p07_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p07_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p07_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p07_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p07_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p07_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p07_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p07_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p07_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p07_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p07_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p07_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p07_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p08_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p08_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p08_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p08_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p08_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p08_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p08_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p08_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p08_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p08_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p08_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p08_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p08_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p08_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p08_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p08_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p08_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p08_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p08_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p08_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p08_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p08_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p09_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p09_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p09_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p09_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p09_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p09_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p09_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p09_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p09_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p09_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p09_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p09_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p09_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p09_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p09_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p09_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p09_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p09_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p09_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p09_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p09_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p09_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p10_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p10_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p10_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p10_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p10_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p10_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p10_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p10_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p10_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p10_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p10_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p10_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p10_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p10_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p10_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p10_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p10_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p10_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p10_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p10_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p10_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p10_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p11_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p11_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p11_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p11_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p11_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p11_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p11_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p11_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p11_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p11_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p11_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p11_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p11_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p11_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p11_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p11_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p11_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p11_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p11_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p11_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p11_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p11_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p12_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p12_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p12_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p12_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p12_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p12_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p12_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p12_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p12_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p12_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p12_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p12_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p12_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p12_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p12_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p12_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p12_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p12_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p12_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p12_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p12_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p12_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p13_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p13_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p13_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p13_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p13_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p13_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p13_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p13_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p13_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p13_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p13_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p13_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p13_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p13_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p13_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p13_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p13_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p13_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p13_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p13_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p13_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p13_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p14_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p14_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p14_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p14_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p14_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p14_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p14_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p14_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p14_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p14_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p14_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p14_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p14_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p14_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p14_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p14_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p14_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p14_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p14_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p14_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p14_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p14_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p15_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p15_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p15_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p15_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p15_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p15_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p15_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p15_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p15_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p15_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p15_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p15_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p15_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p15_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p15_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p15_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p15_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p15_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p15_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p15_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/p15_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/p15_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_05": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_05",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_06": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_06",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_07": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_07",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_08": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_08",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_09": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_09",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_10": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_10",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_11": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_11",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_12": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_12",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_14": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_14",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_tsuda/cars_15": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_tsuda/cars_15",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/intro_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/intro_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/intro_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/intro_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/intro_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/intro_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/intro_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/intro_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/intro_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/intro_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/warning_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/warning_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/warning_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/warning_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/warning_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/warning_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/warning_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/warning_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/warning_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/warning_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/warning_s05": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/warning_s05",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/warning_s06": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/warning_s06",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/chime_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/chime_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/chime_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/chime_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/chime_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/chime_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_01_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_01_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_01_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_01_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_02_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_02_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_02_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_02_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_03_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_03_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_03_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_03_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_04_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_04_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_04_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_04_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_05_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_05_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_05_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_05_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_06_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_06_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_06_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_06_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_07_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_07_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_07_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_07_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_08_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_08_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_08_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_08_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_09_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_09_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_09_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_09_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_10_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_10_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_10_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_10_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_11_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_11_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_11_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_11_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_12_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_12_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_12_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_12_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_13_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_13_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_13_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_13_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_14_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_14_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_14_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_14_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_15_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_15_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/platform_15_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/platform_15_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_local_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_local_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_local_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_local_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_local_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_local_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_local_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_local_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_local_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_local_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_ordinary_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_ordinary_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_ordinary_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_ordinary_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_ordinary_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_ordinary_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_ordinary_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_ordinary_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_rapid_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_rapid_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_rapid_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_rapid_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_rapid_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_rapid_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_rapid_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_rapid_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_special_rapid_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_special_rapid_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_special_rapid_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_special_rapid_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_special_rapid_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_special_rapid_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_special_rapid_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_special_rapid_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_special_rapid_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_special_rapid_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_chuo_special_rapid_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_chuo_special_rapid_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_chuo_special_rapid_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_chuo_special_rapid_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_chuo_special_rapid_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_chuo_special_rapid_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_chuo_special_rapid_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_chuo_special_rapid_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_chuo_special_rapid_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_chuo_special_rapid_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_ome_special_rapid_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_ome_special_rapid_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_ome_special_rapid_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_ome_special_rapid_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_ome_special_rapid_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_ome_special_rapid_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_ome_special_rapid_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_ome_special_rapid_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_ome_special_rapid_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_ome_special_rapid_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_commuter_special_rapid_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_commuter_special_rapid_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_commuter_special_rapid_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_commuter_special_rapid_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_commuter_special_rapid_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_commuter_special_rapid_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_commuter_special_rapid_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_commuter_special_rapid_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_commuter_special_rapid_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_commuter_special_rapid_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_commuter_rapid_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_commuter_rapid_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_commuter_rapid_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_commuter_rapid_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_commuter_rapid_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_commuter_rapid_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_commuter_rapid_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_commuter_rapid_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_commuter_rapid_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_commuter_rapid_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_express_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_express_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_express_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_express_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_express_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_express_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_express_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_express_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_limited_express_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_limited_express_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_limited_express_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_limited_express_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_limited_express_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_limited_express_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_limited_express_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_limited_express_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_train_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_train_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_train_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_train_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/grade_train_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/grade_train_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_01_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_01_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_01_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_01_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_01_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_01_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_01_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_01_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_01_s05": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_01_s05",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_02_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_02_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_02_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_02_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_02_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_02_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_02_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_02_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_03_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_03_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_03_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_03_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_03_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_03_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_04_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_04_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_04_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_04_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_04_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_04_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_04_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_04_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_05_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_05_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_05_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_05_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_05_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_05_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_05_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_05_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_06_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_06_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_06_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_06_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_06_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_06_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_06_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_06_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_07_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_07_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_07_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_07_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_07_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_07_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_07_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_07_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_08_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_08_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_08_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_08_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_08_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_08_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_08_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_08_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_09_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_09_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_09_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_09_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_09_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_09_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_09_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_09_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_10_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_10_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_10_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_10_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_10_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_10_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_10_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_10_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_11_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_11_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_11_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_11_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_11_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_11_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_11_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_11_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_12_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_12_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_12_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_12_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_12_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_12_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_12_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_12_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_14_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_14_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_14_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_14_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_14_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_14_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_14_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_14_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_14_s05": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_14_s05",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_15_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_15_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_15_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_15_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_15_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_15_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_15_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_15_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_resume/cars_15_s05": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_resume/cars_15_s05",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_05": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_05",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_06": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_06",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_07": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_07",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_08": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_08",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_09": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_09",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_10": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_10",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_11": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_11",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_12": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_12",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_14": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_14",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/cars_15": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/cars_15",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p01_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p01_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p01_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p01_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p01_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p01_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p01_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p01_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p01_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p01_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p01_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p01_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p01_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p01_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p01_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p01_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p01_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p01_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p01_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p01_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p01_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p01_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p02_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p02_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p02_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p02_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p02_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p02_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p02_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p02_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p02_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p02_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p02_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p02_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p02_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p02_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p02_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p02_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p02_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p02_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p02_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p02_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p02_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p02_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p03_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p03_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p03_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p03_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p03_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p03_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p03_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p03_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p03_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p03_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p03_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p03_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p03_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p03_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p03_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p03_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p03_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p03_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p03_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p03_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p03_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p03_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p04_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p04_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p04_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p04_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p04_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p04_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p04_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p04_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p04_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p04_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p04_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p04_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p04_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p04_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p04_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p04_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p04_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p04_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p04_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p04_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p04_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p04_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p05_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p05_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p05_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p05_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p05_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p05_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p05_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p05_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p05_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p05_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p05_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p05_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p05_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p05_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p05_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p05_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p05_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p05_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p05_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p05_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p05_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p05_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p06_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p06_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p06_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p06_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p06_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p06_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p06_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p06_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p06_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p06_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p06_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p06_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p06_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p06_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p06_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p06_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p06_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p06_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p06_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p06_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p06_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p06_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p07_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p07_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p07_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p07_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p07_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p07_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p07_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p07_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p07_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p07_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p07_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p07_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p07_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p07_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p07_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p07_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p07_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p07_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p07_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p07_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p07_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p07_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p08_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p08_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p08_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p08_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p08_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p08_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p08_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p08_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p08_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p08_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p08_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p08_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p08_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p08_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p08_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p08_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p08_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p08_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p08_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p08_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p08_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p08_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p09_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p09_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p09_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p09_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p09_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p09_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p09_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p09_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p09_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p09_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p09_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p09_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p09_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p09_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p09_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p09_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p09_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p09_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p09_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p09_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p09_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p09_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p10_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p10_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p10_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p10_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p10_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p10_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p10_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p10_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p10_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p10_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p10_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p10_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p10_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p10_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p10_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p10_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p10_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p10_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p10_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p10_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p10_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p10_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p11_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p11_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p11_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p11_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p11_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p11_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p11_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p11_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p11_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p11_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p11_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p11_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p11_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p11_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p11_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p11_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p11_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p11_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p11_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p11_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p11_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p11_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p12_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p12_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p12_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p12_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p12_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p12_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p12_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p12_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p12_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p12_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p12_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p12_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p12_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p12_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p12_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p12_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p12_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p12_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p12_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p12_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p12_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p12_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p13_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p13_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p13_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p13_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p13_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p13_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p13_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p13_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p13_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p13_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p13_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p13_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p13_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p13_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p13_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p13_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p13_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p13_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p13_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p13_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p13_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p13_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p14_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p14_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p14_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p14_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p14_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p14_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p14_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p14_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p14_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p14_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p14_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p14_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p14_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p14_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p14_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p14_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p14_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p14_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p14_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p14_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p14_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p14_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p15_chuo_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p15_chuo_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p15_commuter_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p15_commuter_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p15_commuter_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p15_commuter_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p15_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p15_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p15_limited_express": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p15_limited_express",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p15_local": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p15_local",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p15_ome_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p15_ome_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p15_ordinary": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p15_ordinary",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p15_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p15_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p15_special_rapid": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p15_special_rapid",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama/p15_train": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama/p15_train",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_01_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_01_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_01_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_01_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_01_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_01_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_01_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_01_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_02_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_02_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_02_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_02_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_02_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_02_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_02_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_02_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_03_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_03_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_03_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_03_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_03_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_03_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_03_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_03_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_04_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_04_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_04_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_04_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_04_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_04_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_04_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_04_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_05_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_05_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_05_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_05_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_05_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_05_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_06_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_06_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_06_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_06_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_06_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_06_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_07_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_07_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_07_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_07_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_07_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_07_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_07_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_07_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_08_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_08_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_08_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_08_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_08_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_08_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_09_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_09_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_09_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_09_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_09_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_09_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_09_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_09_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_10_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_10_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_10_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_10_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_10_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_10_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_11_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_11_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_11_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_11_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_11_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_11_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_11_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_11_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_12_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_12_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_12_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_12_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_12_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_12_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_14_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_14_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_14_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_14_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_14_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_14_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_14_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_14_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_14_s05": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_14_s05",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_15_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_15_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_15_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_15_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_15_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_15_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/cars_15_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/cars_15_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/chime_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/chime_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/chime_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/chime_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/chime_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/chime_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_chuo_special_rapid_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_chuo_special_rapid_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_chuo_special_rapid_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_chuo_special_rapid_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_chuo_special_rapid_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_chuo_special_rapid_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_chuo_special_rapid_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_chuo_special_rapid_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_commuter_rapid_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_commuter_rapid_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_commuter_rapid_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_commuter_rapid_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_commuter_rapid_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_commuter_rapid_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_commuter_rapid_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_commuter_rapid_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_commuter_special_rapid_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_commuter_special_rapid_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_commuter_special_rapid_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_commuter_special_rapid_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_commuter_special_rapid_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_commuter_special_rapid_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_commuter_special_rapid_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_commuter_special_rapid_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_express_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_express_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_express_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_express_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_express_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_express_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_express_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_express_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_limited_express_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_limited_express_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_limited_express_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_limited_express_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_limited_express_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_limited_express_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_limited_express_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_limited_express_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_local_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_local_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_local_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_local_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_local_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_local_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_local_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_local_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_ome_special_rapid_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_ome_special_rapid_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_ome_special_rapid_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_ome_special_rapid_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_ome_special_rapid_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_ome_special_rapid_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_ome_special_rapid_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_ome_special_rapid_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_ordinary_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_ordinary_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_ordinary_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_ordinary_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_ordinary_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_ordinary_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_rapid_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_rapid_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_rapid_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_rapid_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_rapid_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_rapid_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_rapid_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_rapid_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_special_rapid_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_special_rapid_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_special_rapid_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_special_rapid_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_special_rapid_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_special_rapid_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_special_rapid_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_special_rapid_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_train_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_train_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_train_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_train_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_train_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_train_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/grade_train_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/grade_train_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/intro_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/intro_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/intro_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/intro_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/intro_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/intro_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/intro_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/intro_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/intro_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/intro_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_01_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_01_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_01_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_01_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_02_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_02_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_02_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_02_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_03_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_03_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_03_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_03_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_04_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_04_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_04_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_04_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_05_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_05_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_05_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_05_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_06_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_06_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_06_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_06_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_07_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_07_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_07_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_07_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_08_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_08_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_08_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_08_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_09_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_09_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_09_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_09_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_10_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_10_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_10_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_10_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_11_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_11_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_11_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_11_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_12_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_12_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_12_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_12_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_13_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_13_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_13_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_13_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_14_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_14_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_14_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_14_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_15_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_15_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/platform_15_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/platform_15_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/warning_s00": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/warning_s00",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/warning_s01": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/warning_s01",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/warning_s02": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/warning_s02",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/warning_s03": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/warning_s03",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/warning_s04": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/warning_s04",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "atos_mukaiyama_resume/warning_s05": {
+    "sounds": [
+      {
+        "name": "yamanote:atos_mukaiyama_resume/warning_s05",
+        "stream": false,
+        "preload": false,
+        "attenuation_distance": 50
+      }
+    ]
+  }
+}

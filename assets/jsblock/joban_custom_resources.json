@@ -1,0 +1,60 @@
+{
+  "pids_images": [
+    {
+      "id": "jre_zairai_lcd_left",
+      "name": "JREAST_zairai_lcd_pids v1.4 (west&north / 男声 / Male)",
+      "scriptTexts": [
+        "var YAMANOTE_OPTIONS = { platformSide: 'left', atosVoice: 'male' };"
+      ],
+      "scriptFiles": [
+        "jsblock:scripts/network.js",
+        "jsblock:scripts/atos.js",
+        "jsblock:scripts/yamanote.js",
+        "jsblock:scripts/housing.js",
+        "jsblock:scripts/raster.js"
+      ]
+    },
+    {
+      "id": "jre_zairai_lcd_right",
+      "name": "JREAST_zairai_lcd_pids v1.4 (east&south / 男声 / Male)",
+      "scriptTexts": [
+        "var YAMANOTE_OPTIONS = { platformSide: 'right', atosVoice: 'male' };"
+      ],
+      "scriptFiles": [
+        "jsblock:scripts/network.js",
+        "jsblock:scripts/atos.js",
+        "jsblock:scripts/yamanote.js",
+        "jsblock:scripts/housing.js",
+        "jsblock:scripts/raster.js"
+      ]
+    },
+    {
+      "id": "jre_zairai_lcd_left_female",
+      "name": "JREAST_zairai_lcd_pids v1.4 (west&north / 女声 / Female)",
+      "scriptTexts": [
+        "var YAMANOTE_OPTIONS = { platformSide: 'left', atosVoice: 'female' };"
+      ],
+      "scriptFiles": [
+        "jsblock:scripts/network.js",
+        "jsblock:scripts/atos.js",
+        "jsblock:scripts/yamanote.js",
+        "jsblock:scripts/housing.js",
+        "jsblock:scripts/raster.js"
+      ]
+    },
+    {
+      "id": "jre_zairai_lcd_right_female",
+      "name": "JREAST_zairai_lcd_pids v1.4 (east&south / 女声 / Female)",
+      "scriptTexts": [
+        "var YAMANOTE_OPTIONS = { platformSide: 'right', atosVoice: 'female' };"
+      ],
+      "scriptFiles": [
+        "jsblock:scripts/network.js",
+        "jsblock:scripts/atos.js",
+        "jsblock:scripts/yamanote.js",
+        "jsblock:scripts/housing.js",
+        "jsblock:scripts/raster.js"
+      ]
+    }
+  ]
+}
