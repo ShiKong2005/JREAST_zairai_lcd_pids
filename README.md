@@ -34,8 +34,6 @@ File roles:
 | `assets/jsblock/joban_custom_resources.json` | Four display presets and script load order |
 | `assets/yamanote/*.json` | Sound registration and announcement timing references |
 
-For bug reports, include your pack, Minecraft, loader, MTR and JCM versions, reproduction steps, expected/actual behaviour, and relevant screenshots or log excerpts. Current source verification does not establish that every configuration has been tested in game.
-
 ## 中文
 
 本仓库公开 **Shi_Kong233** 制作的 **v1.4 源码和配置**，包括时刻表绘制、线路数据读取、圆角外壳、ATOS 调度、预设注册，以及声音引用和时间配置。
@@ -49,8 +47,6 @@ For bug reports, include your pack, Minecraft, loader, MTR and JCM versions, rep
 源码目标环境为 Minecraft 1.20.1、MTR 4.0.5、JCM 2.2.5。2026-11-08 已与当前 v1.4 公开成品逐字节核对脚本和配置，完整成品的 SHA-256 见上文。
 
 **GitHub 的“Download ZIP”是源码快照，不能直接作为完整资源包启用。** 本仓库未包含字体二进制、录音和游戏截图图标，声音 JSON 引用的实际素材也不在仓库中。玩家请从上方 Modrinth 链接下载完整成品。修改脚本时应沿用对应成品的资源路径与预设 ID。
-
-反馈问题请提供资源包、Minecraft、加载器、MTR 和 JCM 版本，复现步骤、预期／实际结果，以及相关截图或日志片段。源码核对不代表所有配置均已通过游戏内验收。
 
 ## License / 许可证
 
